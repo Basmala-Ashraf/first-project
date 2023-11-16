@@ -1,0 +1,557 @@
+header  {
+    background-color: #555555;
+    color: white;
+    width: 80%;
+    padding-left: 10%;
+     padding-right: 10%;
+}
+
+footer  {
+    background-color: #555555;
+    color: white;
+    width: 80%;
+    padding-top: -10%;
+    padding-left: 10%;
+     padding-right: 10%;
+}
+
+.list1 {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.my {
+    text-align: center;
+    margin: -30px;
+    padding-left: 15%;
+}
+
+.one {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: -20px;
+    opacity: 0.5;
+    font-size: 15px;
+}
+
+.icons {
+    flex-direction: column;
+}
+
+.feedback {
+    position: absolute;
+    top: 12px;
+    left: 84%;
+    color: aliceblue;
+}
+
+.location {
+    position: absolute;
+    top: 28px;
+    left: 86%;
+}
+
+.phone {
+    position: absolute;
+    top: 43px;
+    left: 83%;
+}
+
+.links {
+    flex-direction: column;
+    direction: rtl;
+    font-size: small;
+    color: aliceblue;
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.telefono {
+    font-size: 10px;
+}
+
+.line1 {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 3px;
+    background-color: #4b4b4b;
+}
+
+.section1 {
+    background-color: #555555;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    width: 80%;
+    padding-left: 10%;
+     padding-right: 10%;
+}
+
+.text1 {
+    z-index: 9;
+    font-size: large;
+    padding-top: 15%;
+    margin-right: 10%;
+    margin-left: -20px;
+    width: 100%;
+}
+
+.pich {
+    margin-left: -20px;
+    z-index: 3;
+    font-size: large;
+}
+
+.dash {
+    position: relative;
+}
+
+.dash1 {
+    position: absolute;
+    top: 100%;
+    left: 50px;
+}
+
+.dash2 {
+    position: absolute;
+    top: 100%;
+    left: 75px;
+}
+
+.dash3 {
+    position: absolute;
+    top: 100%;
+    left: 100px;
+}
+
+.curlly {
+    position: relative;
+}
+
+.curlly1 {
+    position: absolute;
+    top: 100%;
+    right: 400px;
+}
+
+.line2 {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 2px;
+    background-color: #4b4b4b;
+}
+
+.section2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    color: #000;
+    position: relative;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    width: 80%;
+    padding-left: 10%;
+     padding-right: 10%;
+}
+
+.lasn {
+    padding-bottom: -10%;
+    margin-left: 3%;
+}
+
+
+.line3 {
+    position: absolute;
+    bottom: 0px;
+    width: 90%;
+    background-color: #4b4b4b;
+}
+
+.curllyy  {
+    position: relative;
+}
+
+.curllyy1 {
+    position: absolute;
+    bottom: 100%;
+    right: 780px;
+}
+
+.curllyy2 {
+    position: absolute;
+    bottom: 84%;
+    right: 780px;
+}
+
+.curllyy3  {
+    position: absolute;
+    bottom: 68%;
+    right: 780px;
+}
+
+.curllyy4  {
+    position: absolute;
+    bottom: 51%;
+    right: 780px;
+}
+
+.curllyy5  {
+    position: absolute;
+    bottom: 35%;
+    right: 780px;
+}
+
+.curllyy6  {
+    position: absolute;
+    bottom: 19%;
+    right: 780px;
+}
+
+.curllyy7  {
+    position: absolute;
+    top: 100%;
+    right: 20px;
+}
+
+.section3 {
+    background-color: #555555;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    width: 80%;
+    padding-left: 8%;
+     padding-right: 10%;
+}
+
+.margh {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.curly {
+    position: relative;
+}
+
+.curly1 {
+    position: absolute;
+    bottom: 100%;
+    right: 0px;
+}
+
+.curly2 {
+    position: absolute;
+    top: 100%;
+    right: 752px;
+}
+
+.tecon {
+    position: relative;
+}
+
+
+.ing {
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    right: 20px;  
+}
+
+
+.ion {
+    position: absolute;
+    top: 57%;
+    right: 84px;
+}
+
+
+.line4 {
+    position: absolute;
+    bottom: 0px;
+    width: 90%;
+    background-color: #4b4b4b;
+}
+
+.section4 {
+    display: flex;
+    justify-content: sspace-between;
+    background-color: #ffffff;
+    color: #000;
+    position: relative;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    width: 80%;
+    padding-left: 10%;
+     padding-right: 10%;
+}
+
+.insat {
+    margin-left: 4%;
+}
+
+.teconn {
+    position: relative;
+}
+
+.lar {
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+    right: 365px;  
+}
+
+.icn {
+    position: absolute;
+    top: 58%;
+    right: 415px;
+}
+
+.crly  {
+    position: relative;
+}
+
+.crly1 {
+    position: absolute;
+    bottom: 100%;
+    right: 772px;
+}
+
+.crly2 {
+    position: absolute;
+    bottom: 83%;
+    right: 772px;
+}
+
+.line5 {
+    position: absolute;
+    bottom: 0px;
+    width: 90%;
+    background-color: #4b4b4b;
+}
+
+.section5 {
+    background-color: #555555;
+    color: white;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    padding-top: 2%;
+    padding-bottom: 6%;
+    width: 80%;
+    padding-left: 10%;
+     padding-right: 10%;
+}
+
+.p {
+    padding-right: 20px;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.hh {
+    padding-left: 20px;
+}
+
+.pp {
+    padding-left: 20px;
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.dashh {
+    position: relative;
+}
+
+.dashh1 {
+    position: absolute;
+    top: 100%;
+    left: 140px;
+}
+
+.dashh2 {
+    position: absolute;
+    top: 100%;
+    left: 165px;
+}
+
+.dashh3 {
+    position: absolute;
+    top: 100%;
+    left: 190px;
+}
+
+form {
+    padding-left:  33%;
+    justify-content: space-between;
+    position: relative;
+    color: aliceblue;
+}
+
+.hhhh {
+    text-align: center;
+    padding-left: 30px;
+}
+
+input {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+    background-color: #4b4b4b;
+    color: white;
+}
+
+.inp {
+    border-bottom: 2px solid floralwhite;
+    width: 57%;
+}
+
+.arrow {
+    position: relative;
+}
+
+.arrow1 {
+    position: absolute;
+    top: 100%;
+    left: 95%;
+}
+
+.number {
+    border-bottom: 2px solid rgb(245, 239, 233);
+    width: 14%;
+}
+
+.city {
+    border-bottom: 2px solid rgb(245, 239, 233);
+    width: 14%;
+}
+
+button {
+    border: 1px double floralwhite;
+    background-color: #4b4b4b;
+    color: white;
+    padding: 2px 11px;
+    border-radius: 6PX;
+    transform: all 0.2s ease;
+}
+
+.butt {
+    position: absolute;
+    top: 99%;
+    right: 41%;
+}
+
+
+.line6 {
+    position: absolute;
+    bottom: 0px;
+    border: 1px solid #4b4b4b;
+    width:  80%;
+    height: 1px;
+    background-color: #4b4b4b;
+}
+
+.aaa {
+    display: block;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: -40px;
+    align-content: flex-end;
+    margin-right: 50px;
+    
+}
+
+.name2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-items: flex-end;
+    padding-top: -25%;
+    
+}
+
+.name3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0.5;
+    font-size: 15px;
+    margin: -25px;
+}
+
+.list2 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    align-items:  center;
+    margin-top: -70px;
+}
+
+.liss {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.iicc {
+    position: relative;
+    margin-bottom: -20px;
+}
+
+.i  {
+    position: absolute;
+    top: 85%;
+    left: 20px;
+}
+
+.c  {
+    position: absolute;
+    top: 90%;
+    left: 50px;
+}
+
+.o  {
+    position: absolute;
+    top: 90%;
+    left: 80px;
+}
+
+.n  {
+    position: absolute;
+    top: 90%;
+    left: 110px;
+}
+
+
+
+.icoon {
+    margin-top: 70%;
+}
+
+.iconn {
+    margin-top:100%;
+}
+
+.mezz {
+    text-decoration: underline;
+    position: relative;
+    font-size: small;
+    margin-bottom: -53px;
+}
+
+.mez {
+    text-decoration: underline;
+    position: absolute;
+    top: 100%;
+    right: 79px;
+}
